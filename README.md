@@ -1,5 +1,7 @@
 # go-diff [![GoDoc](https://godoc.org/github.com/sergi/go-diff?status.png)](https://godoc.org/github.com/sergi/go-diff/diffmatchpatch) [![Build Status](https://travis-ci.org/sergi/go-diff.svg?branch=master)](https://travis-ci.org/sergi/go-diff) [![Coverage Status](https://coveralls.io/repos/sergi/go-diff/badge.png?branch=master)](https://coveralls.io/r/sergi/go-diff?branch=master)
 
+## Frozen version for [Codechain](https://github.com/frankbraun/codechain)!
+
 go-diff offers algorithms to perform operations required for synchronizing plain text:
 
 - Compare two texts and return their differences.
